@@ -1,0 +1,278 @@
+Province/State,Country/Region,Confirmed
+Hubei,China,67799
+,Italy,31506
+,Iran,16169
+,Spain,11748
+,Germany,9257
+,"Korea, South",8320
+France,France,7652
+,Switzerland,2700
+United Kingdom,United Kingdom,1950
+New York,US,1706
+Netherlands,Netherlands,1705
+,Norway,1463
+Guangdong,China,1364
+,Austria,1332
+Henan,China,1273
+,Belgium,1243
+Zhejiang,China,1232
+,Sweden,1190
+Washington,US,1076
+Hunan,China,1018
+Anhui,China,990
+Denmark,Denmark,977
+Jiangxi,China,935
+,Japan,878
+Shandong,China,761
+California,US,698
+Diamond Princess,Cruise Ship,696
+,Malaysia,673
+Jiangsu,China,631
+Chongqing,China,576
+Sichuan,China,540
+Heilongjiang,China,482
+Beijing,China,456
+,Portugal,448
+,Qatar,439
+,Czechia,396
+,Greece,387
+Shanghai,China,358
+,Israel,382
+,Brazil,321
+,Finland,321
+Hebei,China,318
+Fujian,China,296
+,Slovenia,275
+New Jersey,US,267
+,Singapore,266
+Guangxi,China,253
+Shaanxi,China,246
+,Poland,238
+,Pakistan,236
+,Bahrain,228
+,Estonia,225
+,Ireland,223
+,Iceland,220
+Massachusetts,US,218
+Florida,US,216
+New South Wales,Australia,210
+,Chile,201
+,Egypt,196
+Louisiana,US,196
+,Philippines,187
+Ontario,Canada,185
+,Romania,184
+,Thailand,177
+Yunnan,China,176
+,Indonesia,172
+,Saudi Arabia,171
+Hainan,China,168
+Hong Kong,China,162
+Illinois,US,161
+Colorado,US,160
+,Iraq,154
+Guizhou,China,147
+Georgia,US,146
+,India,142
+,Luxembourg,140
+Tianjin,China,136
+Gansu,China,133
+Shanxi,China,133
+,Kuwait,130
+Liaoning,China,125
+,Lebanon,120
+,Peru,117
+,Russia,114
+Pennsylvania,US,112
+Texas,US,110
+,San Marino,109
+British Columbia,Canada,103
+,United Arab Emirates,98
+Victoria,Australia,94
+Jilin,China,93
+,Mexico,82
+,Armenia,78
+Queensland,Australia,78
+,Taiwan*,77
+Xinjiang,China,76
+Inner Mongolia,China,75
+Ningxia,China,75
+Alberta,Canada,74
+Quebec,Canada,74
+Tennessee,US,74
+,Slovakia,72
+Wisconsin,US,72
+,Panama,69
+,Argentina,68
+Connecticut,US,68
+,Bulgaria,67
+Ohio,US,67
+Virginia,US,67
+Oregon,US,66
+,Vietnam,66
+,Colombia,65
+,Croatia,65
+,Serbia,65
+Michigan,US,65
+North Carolina,US,64
+,South Africa,62
+,Algeria,60
+Maryland,US,60
+Minnesota,US,60
+,Ecuador,58
+,Brunei,56
+Nevada,US,56
+,Albania,55
+Utah,US,51
+,Hungary,50
+,Latvia,49
+Faroe Islands,Denmark,47
+,Turkey,47
+Diamond Princess,US,47
+South Carolina,US,47
+,Cyprus,46
+,Sri Lanka,44
+,Costa Rica,41
+,Andorra,39
+Alabama,US,39
+,Malta,38
+,Morocco,38
+,Belarus,36
+,Georgia,34
+,Jordan,34
+,Cambodia,33
+,Kazakhstan,33
+,Venezuela,33
+Maine,US,32
+Western Australia,Australia,31
+,Moldova,30
+Indiana,US,30
+South Australia,Australia,29
+,Uruguay,29
+,Azerbaijan,28
+,Bosnia and Herzegovina,26
+,North Macedonia,26
+,Senegal,26
+Kentucky,US,26
+New Hampshire,US,26
+,Lithuania,19
+,Oman,24
+,Tunisia,24
+Iowa,US,23
+New Mexico,US,23
+Rhode Island,US,23
+,Afghanistan,20
+Arkansas,US,22
+District of Columbia,US,22
+,Dominican Republic,21
+Grand Princess,US,21
+Mississippi,US,21
+Nebraska,US,21
+Arizona,US,20
+Oklahoma,US,19
+Qinghai,China,18
+,Guadeloupe,18
+Kansas,US,18
+,Martinique,16
+Delaware,US,16
+,Burkina Faso,15
+,Ukraine,14
+,Maldives,13
+Macau,China,12
+,Jamaica,12
+,New Zealand,12
+Vermont,US,12
+,Bolivia,11
+,French Guiana,11
+Missouri,US,11
+South Dakota,US,11
+Wyoming,US,11
+,Bangladesh,10
+,Cameroon,10
+Hawaii,US,10
+,Uzbekistan,10
+Reunion,France,9
+,Paraguay,9
+,Reunion,9
+Montana,US,9
+Grand Princess,Canada,8
+Manitoba,Canada,8
+New Brunswick,Canada,8
+,Honduras,8
+Idaho,US,8
+Tasmania,Australia,7
+Nova Scotia,Canada,7
+Saskatchewan,Canada,7
+French Guiana,France,7
+,Ghana,7
+,Guyana,7
+,Liechtenstein,7
+,Monaco,7
+,Rwanda,7
+Guadeloupe,France,6
+,Guatemala,6
+Channel Islands,United Kingdom,6
+,Cote d'Ivoire,5
+,Cuba,5
+,Ethiopia,5
+,Mongolia,5
+,Trinidad and Tobago,5
+Puerto Rico,US,5
+,Seychelles,4
+,Aruba,3
+Newfoundland and Labrador,Canada,3
+,Congo (Kinshasa),3
+French Polynesia,France,3
+Saint Barthelemy,France,3
+,Guam,3
+,Kenya,3
+Curacao,Netherlands,3
+,Nigeria,3
+Alaska,US,3
+Guam,US,3
+North Dakota,US,3
+Gibraltar,United Kingdom,3
+Australian Capital Territory,Australia,2
+,Barbados,2
+St Martin,France,2
+,Kosovo,2
+,Montenegro,2
+,Namibia,2
+,Saint Lucia,2
+Virgin Islands,US,2
+,Antigua and Barbuda,1
+Northern Territory,Australia,1
+,Benin,1
+,Bhutan,1
+Prince Edward Island,Canada,1
+,Central African Republic,1
+Tibet,China,1
+,Congo (Brazzaville),1
+,Equatorial Guinea,1
+,Eswatini,1
+Mayotte,France,1
+,Gabon,1
+,Greenland,1
+,Guinea,1
+,Holy See,1
+,Liberia,1
+,Mauritania,1
+,Mayotte,1
+,Nepal,1
+,Saint Vincent and the Grenadines,1
+,Somalia,1
+,Sudan,1
+,Suriname,1
+,Tanzania,1
+,The Bahamas,1
+,The Gambia,1
+,Togo,1
+West Virginia,US,1
+Cayman Islands,United Kingdom,1
+From Diamond Princess,Australia,0
+,Guernsey,0
+,Jersey,0
+,Puerto Rico,0
+,Republic of the Congo,0
+,occupied Palestinian territory,0
+Unknown,China,0
