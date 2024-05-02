@@ -1,0 +1,89 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  
+    <title>Login Page</title>
+    <style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f0f0f0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+    .container {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        width: 300px;
+        position: relative;
+    
+    }
+    
+    h1 {
+        text-align: left:
+        position: absolute;
+        top: 10px;
+        left: 10px;
+    }
+    
+    form {
+        margin-top: 50px;
+    }
+    
+    
+    input[type="text"], input[type="password"] {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        box-sizing: border-box;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+    
+    button[type="submit"] {
+        width: 100%;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        padding: 10px;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s ease  
+    }
+     
+     button[type="submit"]:hover {
+         background-color: #0056b3;
+    }   
+    
+    .message {
+        color: red;
+        margin-top: 10px;
+        text-align: center;
+    }
+    
+    p {
+        text-align: center;
+        margin-top: 20px;
+    }
+    </style>
+</head>
+<body>
+    <div class="container">
+    <h1>Login</h1>
+    <form method="POST"> 
+        <p>Username: <input type="text" name="username"></p>
+        <p>Password: <input type="password" name="password"></p>
+        <input type="submit" value="Login">
+    </form>
+    <p class="message">{{message}}</p>
+    <p> Don't have an account? <a href="/register"> Register here</a></p>
+    </div>
+</body>
+</html>
